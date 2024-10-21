@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 GitLab projects:
 - https://gitlab.com/yaishenka/yolk/-/tree/web-dev?ref_type=heads
+
 Educational projects:
 - https://gitlab.com/gagarinkomar/hsse-cpp
 - https://gitlab.com/gagarinkomar/hsse-concurrency
