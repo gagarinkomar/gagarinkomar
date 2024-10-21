@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **gagarinkomar/gagarinkomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+GitLab projects:
+- https://gitlab.com/yaishenka/yolk/-/tree/web-dev?ref_type=heads
+Educational projects:
+- https://gitlab.com/gagarinkomar/hsse-cpp
+- https://gitlab.com/gagarinkomar/hsse-concurrency
+- https://gitlab.com/gagarinkomar/hsse-algos
+- https://gitlab.com/gagarinkomar/mts_go
